@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🤔 &nbsp; Frontend Developer & Designer working remotely in India.
-- 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
+- 🌱 &nbsp; Learning more about Entrepreneurship, AI, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess, reading and discovering new technologies.
 
 ---
